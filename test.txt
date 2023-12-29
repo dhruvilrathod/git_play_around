@@ -1,6 +1,8 @@
 newly created remote file
 change from remote master
 change from local
-
+asdf
+asdf
+fff
 change from local 2
 asdfsdf
